@@ -37,10 +37,5 @@
 
 ---
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PUJARIJAYASAI&show_icons=true&theme=radical)
-
----
-
 ### 🤝 Let's Connect
 [LinkedIn](YOUR_LINK) | [Email](mailto:your-email@example.com) | [Portfolio](YOUR_PORTFOLIO_LINK)
